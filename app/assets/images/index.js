@@ -1,0 +1,15 @@
+export const icons = {
+  admin: require('./admin.png'),
+  settings: require('./settings.png'),
+  customer: require('./customer.png'),
+  speedometer: require('./speedometer_normal.png'),
+  hadmin: require('./highlighted_admins.png'),
+  hsettings: require('./highlighted_settings.png'),
+  hcustomer: require('./highlighted_customer.png'),
+  hspeedometer: require('./speedometer.png'),
+  simCard: require('./simCard.png'),
+  mtn: require('./mtn.png'),
+  glo: require('./glo.png'),
+  '9mobile': require('./9mobile.png'),
+  emptyAdmin: require('./emptyAdmins.png'),
+};
